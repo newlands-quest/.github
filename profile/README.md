@@ -6,5 +6,5 @@ Recluta aliados, expande tu territorio y conviértete en el monarca mas grande d
 * 📝 Lee el GDD haciendo [click aquí](https://github.com/newlands-quest).
 <br>
 
-* 💻 Necesitamos developers, echa un ojo a [nuestros proyectos](https://github.com/orgs/newlands-quest/projects?type=beta)
-* 🌐 Translation help is always wanted, [check our tasks](https://github.com/orgs/newlands-quest/projects?type=beta)
+* 💻 Necesitamos developers, echa un ojo a [nuestros proyectos](https://github.com/orgs/newlands-quest/projects?type=beta).
+* 🌐 Translation help is always wanted, [check our tasks](https://github.com/orgs/newlands-quest/projects?type=beta).
