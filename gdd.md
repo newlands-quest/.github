@@ -10,9 +10,9 @@ Game design document.
 
 ## Índice
 
-* [Ficha Técnica](#ficha tecnica)
+* [Ficha Técnica](#ficha-técnica)
 * [Influencias](#influencias)
-* [El juego](#el juego)
+* [El juego](#el-juego)
 
 ## Ficha técnica
 
